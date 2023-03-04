@@ -541,6 +541,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  jumpForce: 5
   rig: {fileID: 1924020168}
 --- !u!1 &2136463198
 GameObject:
